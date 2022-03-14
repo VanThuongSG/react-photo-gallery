@@ -1,5 +1,4 @@
 # build
-lib
 example/dist
 
 # Logs
@@ -35,3 +34,4 @@ node_modules
 
 #gitbook
 _book
+yarn.lock
